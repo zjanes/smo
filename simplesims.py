@@ -189,7 +189,7 @@ after = datetime.datetime.now()
 print(after - before)
     
 
-# Current state 3.04.2020
+# Current state 3.04.2020 sheesh
 
 # The simulation works (I think) with SI and SIR models. It's not been tested to see whether it conforms to expectd values, but it outputs what appears so far to be sensible data. To be certain I need to implement a tracker for the number of recovered.
 
