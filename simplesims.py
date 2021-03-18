@@ -17,6 +17,7 @@ import random, operator, timeit as t
 from functools import reduce
 
 class Strain_parameters:
+    """No idea what this does right now. Will have to look into it.""
 
     def __init__(self, transmissibility, durations):
 
